@@ -30,7 +30,7 @@ Vesthelm    | Vest
 
 </td><td>
 
-MINBUY     |   Flash & Smoke | All Utility 
+Minbuy     |   Flash & Smoke | All Utility 
 :---:       | :---:                         | :---: 
 molotov/incgrenade | smokegrenade    
 noclip      |   flashbang   | grenade
