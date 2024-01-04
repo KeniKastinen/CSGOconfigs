@@ -30,10 +30,10 @@ Vesthelm    | Vest
 
 </td><td>
 
-autobuy     |   Flash & Smoke | All Utility 
+MINBUY     |   Flash & Smoke | All Utility 
 :---:       | :---:                         | :---: 
-flashbang   |  molotov/incgrenade 
-noclip      |     smokegrenade | grenade
+molotov/incgrenade | smokegrenade    
+noclip      |   flashbang   | grenade
 voice       |  
 
 </td></tr> </table>
