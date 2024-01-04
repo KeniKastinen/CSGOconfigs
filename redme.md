@@ -10,7 +10,7 @@ NUM| /| *| -
 
 </td><td>
 
--           | Flashbang     | Molly     | Smoke
+            | Flashbang     | Molly     | Smoke
 :---        | :---          | :---      | :--- 
 M4A4/AK-47  | FAMAS/Galil   | Krieg/AUG | HeGrenade
 AWP         | Scout         | Dessu
