@@ -1,29 +1,27 @@
-#Console
-d - disconnect
-q - quit
-r - retry
-rs - restart
+# Console
+- d - disconnect
+- q - quit
+- r - retry
+- rs - restart
 
-#Keybinds
-t - runthrow
-q - rifle/pistol
-MOUSE5 +knife
-Zoom (.) and unzoom (,) radar
-PGUP - PGDN game volume
-UP - DOWN voice volume
-z x c - radios
-del - exec autoexec
-1 + M5 - minbuy 3700$/4100$
-2 + M5 - Flash&smoke
-3 + M5 - Full utility
-6 - Warmup
-7 - Training mode
-6 - bot rm table
-9 - bot add ct
-0 - bot add t
+# Keybinds
+- t - runthrow
+- q - rifle/pistol
+- MOUSE5 +knife
+- Zoom (.) and unzoom (,) radar
+- PGUP - PGDN game volume
+- UP - DOWN voice volume
+- z x c - radios
+- del - exec autoexec
+- 1 + M5 - minbuy 3700$/4100$
+- 2 + M5 - Flash&smoke
+- 3 + M5 - Full utility
+- 6 - Warmup
+- 7 - Training mode
+- 6 - bot rm table
+- 9 - bot add ct
+- 0 - bot add t
 
-
- 
 # Buybinds
 <table><tr><td>
 
